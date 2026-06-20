@@ -110,6 +110,14 @@ Friction R4 'Clarity' delivers refined scroll detection, multi-layered friction 
 - No network permissions required
 - No data collection or analytics
 
+---
+
+
+ **Feedback & Support**: Encountered a bug or have a feature suggestion? Open an issue on the [Issues](https://github.com/MEKTechnologies/Friction/issues) tab!
+
+
+---
+
 ## Disclaimer
 
 This software is provided "as is" without warranty of any kind, express or implied. By using this application, you acknowledge and agree to the following:
