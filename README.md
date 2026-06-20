@@ -18,7 +18,7 @@ Friction R5 'Inception' delivers refined scroll detection, multi-layered frictio
 
 ## **Break the scroll. Reclaim your focus.**
 
-![Example Usage Photo](ex-img1) ![Example Usage Photo](ex-img2)
+![Example Usage Photo](ex-img1.jpg) ![Example Usage Photo](ex-img2.jpg)
 
 ## Features
 
